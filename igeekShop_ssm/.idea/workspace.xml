@@ -1,0 +1,1974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="igeekshop_web_user:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a8a8b75e-67cc-4460-9663-a5be756e06ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../03-框架/001_spring mvc快速入门版/learnspringmvc/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/001_spring mvc快速入门版/learnspringmvc/.idea/libraries/Maven__org_webjars_jquery_3_3_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/001_spring mvc快速入门版/learnspringmvc/.idea/libraries/Maven__taglibs_standard_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/001_spring mvc快速入门版/learnspringmvc/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/001_spring mvc快速入门版/learnspringmvc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/001_spring mvc快速入门版/learnspringmvc/_01firstspringmvc/_01firstspringmvc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/001_spring mvc快速入门版/learnspringmvc/_02urlpattern/_02urlpattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/001_spring mvc快速入门版/learnspringmvc/_03annotation/_03annotation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/001_spring mvc快速入门版/learnspringmvc/_04requestparams/_04requestparams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/001_spring mvc快速入门版/learnspringmvc/_04requestparams/src/main/java/com/monkey1024/bean/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/001_spring mvc快速入门版/learnspringmvc/_04requestparams/src/main/webapp/js/jquery-1.4.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/001_spring mvc快速入门版/learnspringmvc/_04requestparams/src/main/webapp/js/jquery.form.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/001_spring mvc快速入门版/learnspringmvc/_05returnvalue/_05returnvalue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/001_spring mvc快速入门版/learnspringmvc/_06redirect/_06redirect.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/001_spring mvc快速入门版/learnspringmvc/_07exception/_07exception.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/001_spring mvc快速入门版/learnspringmvc/_08dataconverter/_08dataconverter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/001_spring mvc快速入门版/learnspringmvc/_09validation/_09validation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/001_spring mvc快速入门版/learnspringmvc/_10upload/_10upload.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/001_spring mvc快速入门版/learnspringmvc/_11interceptor/_11interceptor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/001_spring mvc快速入门版/learnspringmvc/_12crud/_12crud.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/001_spring mvc快速入门版/learnspringmvc/_13restful/_13restful.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/001_spring mvc快速入门版/learnspringmvc/learnspringmvc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/004_spring快速入门版/learnspring代码/learnspring/_00_pattern/_00_pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/004_spring快速入门版/learnspring代码/learnspring/_01_firstspring/_01_firstspring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/004_spring快速入门版/learnspring代码/learnspring/_02_bean/_02_bean.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/004_spring快速入门版/learnspring代码/learnspring/_03_DI/_03_DI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/004_spring快速入门版/learnspring代码/learnspring/_04_DI_annotation/_04_DI_annotation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/004_spring快速入门版/learnspring代码/learnspring/_05_problem/_05_problem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/004_spring快速入门版/learnspring代码/learnspring/_06_aop_xml/_06_aop_xml.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/004_spring快速入门版/learnspring代码/learnspring/_07_aop_annotation/_07_aop_annotation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/004_spring快速入门版/learnspring代码/learnspring/_08_web/_08_web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/004_spring快速入门版/learnspring代码/learnspring/_09_ssm/_09_ssm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/004_spring快速入门版/learnspring代码/learnspring/_10_transaction_annotation/_10_transaction_annotation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/004_spring快速入门版/learnspring代码/learnspring/_11_ssm_crud/_11_ssm_crud.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/004_spring快速入门版/learnspring代码/learnspring/_12_generator/_12_generator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-框架/004_spring快速入门版/learnspring代码/learnspring/learnspring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.第三阶段 SSM/mvn/ssm_parent/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.第三阶段 SSM/mvn/ssm_parent/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.第三阶段 SSM/mvn/ssm_parent/ssm_dao/src/main/java/com/igeekhome/ssm/mapping/EmployeeMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.第三阶段 SSM/spring/day01/Spring01_01/Spring01_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.第三阶段 SSM/spring/day01/Spring01_02/Spring01_02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.第三阶段 SSM/spring/day01/Spring01_03/Spring01_03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.第三阶段 SSM/spring/day02/代码/Spring02_01/Spring02_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.第三阶段 SSM/spring/day02/代码/Spring02_02/Spring02_02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.第三阶段 SSM/spring/day02/代码/Spring02_03/Spring02_03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.第三阶段 SSM/spring/day03/Spring03_01/Spring03_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.第三阶段 SSM/spring/day03/Spring03_02/Spring03_02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.第三阶段 SSM/spring/day03/Spring03_03/Spring03_03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.第三阶段 SSM/spring/day03/Spring03_04/Spring03_04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineShoppingMall-master/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineShoppingMall-master/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineShoppingMall-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekShop_ssm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_dao/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_dao/src/main/java/com/igeekshop/ssm/dao/CategoryMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_dao/src/main/java/com/igeekshop/ssm/dao/OrderitemMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_dao/src/main/java/com/igeekshop/ssm/dao/OrdersMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_dao/src/main/java/com/igeekshop/ssm/dao/ProductMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_dao/src/main/java/com/igeekshop/ssm/dao/UsersMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_dao/src/main/java/com/igeekshop/ssm/domain/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_dao/src/main/java/com/igeekshop/ssm/domain/CartItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_dao/src/main/java/com/igeekshop/ssm/domain/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_dao/src/main/java/com/igeekshop/ssm/domain/CategoryExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_dao/src/main/java/com/igeekshop/ssm/domain/Orderitem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_dao/src/main/java/com/igeekshop/ssm/domain/OrderitemExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_dao/src/main/java/com/igeekshop/ssm/domain/Orders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_dao/src/main/java/com/igeekshop/ssm/domain/OrdersExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_dao/src/main/java/com/igeekshop/ssm/domain/PageBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_dao/src/main/java/com/igeekshop/ssm/domain/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_dao/src/main/java/com/igeekshop/ssm/domain/ProductExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_dao/src/main/java/com/igeekshop/ssm/domain/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_dao/src/main/java/com/igeekshop/ssm/domain/UsersExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_dao/src/main/java/com/igeekshop/ssm/mapper/CategoryMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_dao/src/main/java/com/igeekshop/ssm/mapper/OrderitemMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_dao/src/main/java/com/igeekshop/ssm/mapper/OrdersMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_dao/src/main/java/com/igeekshop/ssm/mapper/ProductMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_dao/src/main/java/com/igeekshop/ssm/mapper/UsersMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_dao/src/test/java/com/igeekshop/ssm/tests/ProductTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_dao/src/test/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_dao/src/test/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_dao/src/test/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_dao/src/test/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_dao/src/test/resources/spring-mybatis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_service/src/main/java/com/igeekshop/ssm/service/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_service/src/main/java/com/igeekshop/ssm/service/OrdersService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_service/src/main/java/com/igeekshop/ssm/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_service/src/main/java/com/igeekshop/ssm/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_service/src/main/java/com/igeekshop/ssm/service/impl/CategoryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_service/src/main/java/com/igeekshop/ssm/service/impl/OrdersServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_service/src/main/java/com/igeekshop/ssm/service/impl/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_service/src/main/java/com/igeekshop/ssm/service/impl/UserSeviceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/igeekshop_web_manager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/java/com/igeekshop/ssm/controller/AdminCategoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/java/com/igeekshop/ssm/controller/AdminOrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/java/com/igeekshop/ssm/controller/AdminProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/resources/spring-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/resources/spring-mybatis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/admin/bottom.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/admin/category/add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/admin/category/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/admin/category/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/admin/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/admin/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/admin/left.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/admin/order/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/admin/order/order_info.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/admin/product/add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/admin/product/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/admin/product/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/admin/top.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/admin/welcome.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/bank_img/abc.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/bank_img/bc.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/bank_img/bcc.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/bank_img/beijingnongshang.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/bank_img/bh.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/bank_img/bj.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/bank_img/ccb.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/bank_img/cib.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/bank_img/cmb.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/bank_img/cmbc.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/bank_img/dy.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/bank_img/gf.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/bank_img/guangda.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/bank_img/hx.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/bank_img/icbc.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/bank_img/nanjing.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/bank_img/ningbo.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/bank_img/pingan.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/bank_img/post.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/bank_img/sfz.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/bank_img/sh.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/bank_img/shpd.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/bank_img/zheshang.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/bank_img/zx.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/css/Style1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/css/dtree.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/css/left.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/059b5245-e3c8-43bf-80fe-700f0e4e68b8-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/0ff130db-0a1b-4b8d-a918-ed9016317009-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/4a51167a-89d5-4710-aca2-7c76edc355b8-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/51afeef5-f6cb-4936-abea-315cfca0edc0-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/54890cf9-91b0-40bc-9f68-51462e9c43a8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/750a9ce8-8c19-444d-b8cc-f3e7e786ec5d-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/93b9e55f-cbae-4c3c-b2f7-2636c7369db7-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/My97DatePicker.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/adidas.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/base64.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/beijirong.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/bigPic13867cc1-935a-4a3a-98f9-edf87ddb1c09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/bigPic372e7faa-3ad0-444d-a89b-a8e9f0d6e929.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/bigPic4ed6edbf-fb3e-49a7-be5e-361b2ce02961.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/bigPic5ab54f67-a479-48fe-a41d-7d34b57036a3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/bigPica5720219-ba48-460a-a084-24d5b314bd03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/bigPica7e5d3dd-5984-4d0f-9851-35cc0987d9b9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/bigPicaa443d05-27b4-4964-958e-c81536f01d04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/bigPicc1e3a29e-17f5-4d9f-a186-b2c5a0b39b88.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/bigPicd0459632-fe4e-4a5d-8373-1a67c9f43ec2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/bigPice7c2e240-4147-4c11-b369-db3765ec3df9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/bigPicee0785e3-68e2-4e23-93ef-68904bc2a3c6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/calendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/captcha (2).jhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/captcha.jhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/cart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/cart.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/common.css.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/common.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/dadonggua.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/eifini.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/f37ba36a-181b-4161-a88f-f74c9adb485d-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/f5e39c37-94b2-462e-8e58-8bde3c5f1b8c-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/footer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/g.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/h.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/hengyuanxiang.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/i.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/index_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/index_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/index_right.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/index_top.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/j.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/jackjones.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/jsbn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/k.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/l.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/lining.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/login.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/m.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/maoren.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/nike.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/o.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/p.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/product.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/product.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/q.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/r___________renleipic_01/15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/r___________renleipic_01/bigPic139f030b-d68b-41dd-be6d-b94cc568d3c5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/r___________renleipic_01/bigPic19533252-0faa-4e64-8077-6e1908f47739.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/r___________renleipic_01/bigPic1ea8f1c9-8b8e-4262-8ca9-690912434692.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/r___________renleipic_01/bigPic5f3622b8-028a-4e62-a77f-f41a16d715ed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/r___________renleipic_01/footer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/r___________renleipic_01/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/r___________renleipic_01/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/r___________renleipic_01/logo1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/r___________renleipic_01/product.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/registImg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/regist_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/register.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/semir.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/sentubila.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/septwolves.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/sundance.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/vimly.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/image/yishion.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/IconTexto_WebDev_009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/article.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/cart.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/cart1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/common.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/dialog_overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/error.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/finalbutton.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/gif53_029.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/i_del.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/i_edit.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/index.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/info.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/loading_bar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/loading_icon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/login.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/loginbg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/member.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/message.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/mis_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/mis_05a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/mis_05b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/mis_05c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/order.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/password.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/product.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/regist_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/register.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/review.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/shim.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/title2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/top_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/top_100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/tree/base.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/tree/cd.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/tree/empty.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/tree/folder.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/tree/folderopen.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/tree/globe.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/tree/imgfolder.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/tree/join.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/tree/joinbottom.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/tree/line.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/tree/minus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/tree/minusbottom.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/tree/musicfolder.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/tree/nolines_minus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/tree/nolines_plus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/tree/page.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/tree/plus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/tree/plusbottom.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/tree/question.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/images/tree/trash.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/img/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/img/bartlesvillecf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/img/emancipation.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/img/footer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/img/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/img/header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/img/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/img/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/img/okwu-athletics.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/img/okwu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/img/title2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/js/dtree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/js/jquery-1.11.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/js/jquery-3.4.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/js/jquery-migrate-1.0.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/js/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/js/messages_zh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/556d64fcNf28f90d0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0013.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0016.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0018.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0019.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0021.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0022.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0023.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0024.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0025.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0026.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0027.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0028.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0029.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0030.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0031.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0032.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0033.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0034.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0035.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0036.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0037.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0038.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0039.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0040.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0041.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0042.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0043.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0044.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0045.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0046.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0047.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0048.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0049.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/c_0050.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs10001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs10002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs10003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs10004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs10005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs10006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs10007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs10008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs10009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs10010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs20001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs20002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs20003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs20004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs20005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs20006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs20007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs20008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs20009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs20010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs30001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs30002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs30003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs30004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs30005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs30006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs30007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs30008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs30009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs30010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs40001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs40002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs40003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs40004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs40005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs40006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs40007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs40008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs40009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs40010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs40011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs50001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs50002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs50003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs50004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs50005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs50006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs50007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs50008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs50009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs50010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs60001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs60002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs60003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs60004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs60005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs60006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs60007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs60008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs60009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs60010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs70001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs70002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs70003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs70004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs70005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs70006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs70007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs70008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs70009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/cs70010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/duanxue1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/duanxue2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/duanxue3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/duanxue4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/1/nvxie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/155210007679548_y.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/3/bed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/3/bed1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/3/desk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/3/desk1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/3/guizi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/3/sofa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/4/box1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/4/box2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/4/pakage1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/4/pakage2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/4/shoes1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/4/shoes2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/5/kuzi1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/5/kuzi2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/5/kuzi3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/5/kuzi4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/5/mianao1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/5/mianao2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/562d008aN963ce5f2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/5632bdf8N789e6659.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/5632c2eeNbc918af0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/6/java1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/6/java2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/6/spring1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/6/spring2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/6/springboot1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/6/springboot2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/90560009093007_y.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/c_0001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/c_0002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/c_0003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/c_0004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/c_0005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/c_0006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/c_0007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/dn1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/dn2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/f001a62f-a49d-4a4d-b56f-2b6908a0002c_g.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/hao/ad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/hao/big01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/hao/middle01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/hao/small01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/hao/small02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/hao/small03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/hao/small04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/hao/small05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/hao/small06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/hao/small07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/hao/small08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/hao/small09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/news_left.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/news_right.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/java/com/igeekshop/ssm/controller/CategoryListController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/java/com/igeekshop/ssm/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/java/com/igeekshop/ssm/controller/ProductShowController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/java/com/igeekshop/ssm/controller/UserLoginAndRegistContorller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/resources/redis.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/resources/spring-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/resources/spring-mybatis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/bank_img/abc.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/bank_img/bc.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/bank_img/bcc.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/bank_img/beijingnongshang.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/bank_img/bh.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/bank_img/bj.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/bank_img/ccb.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/bank_img/cib.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/bank_img/cmb.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/bank_img/cmbc.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/bank_img/dy.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/bank_img/gf.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/bank_img/guangda.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/bank_img/hx.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/bank_img/icbc.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/bank_img/nanjing.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/bank_img/ningbo.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/bank_img/pingan.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/bank_img/post.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/bank_img/sfz.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/bank_img/sh.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/bank_img/shpd.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/bank_img/zheshang.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/bank_img/zx.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/cart.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/css/Style1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/css/dtree.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/css/left.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/059b5245-e3c8-43bf-80fe-700f0e4e68b8-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/0ff130db-0a1b-4b8d-a918-ed9016317009-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/4a51167a-89d5-4710-aca2-7c76edc355b8-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/51afeef5-f6cb-4936-abea-315cfca0edc0-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/54890cf9-91b0-40bc-9f68-51462e9c43a8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/750a9ce8-8c19-444d-b8cc-f3e7e786ec5d-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/93b9e55f-cbae-4c3c-b2f7-2636c7369db7-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/My97DatePicker.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/adidas.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/base64.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/beijirong.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/bigPic13867cc1-935a-4a3a-98f9-edf87ddb1c09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/bigPic372e7faa-3ad0-444d-a89b-a8e9f0d6e929.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/bigPic4ed6edbf-fb3e-49a7-be5e-361b2ce02961.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/bigPic5ab54f67-a479-48fe-a41d-7d34b57036a3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/bigPica5720219-ba48-460a-a084-24d5b314bd03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/bigPica7e5d3dd-5984-4d0f-9851-35cc0987d9b9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/bigPicaa443d05-27b4-4964-958e-c81536f01d04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/bigPicc1e3a29e-17f5-4d9f-a186-b2c5a0b39b88.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/bigPicd0459632-fe4e-4a5d-8373-1a67c9f43ec2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/bigPice7c2e240-4147-4c11-b369-db3765ec3df9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/bigPicee0785e3-68e2-4e23-93ef-68904bc2a3c6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/calendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/captcha (2).jhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/captcha.jhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/cart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/cart.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/common.css.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/common.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/dadonggua.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/eifini.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/f37ba36a-181b-4161-a88f-f74c9adb485d-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/f5e39c37-94b2-462e-8e58-8bde3c5f1b8c-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/footer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/g.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/h.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/hengyuanxiang.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/i.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/index_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/index_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/index_right.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/index_top.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/j.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/jackjones.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/jsbn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/k.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/l.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/lining.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/login.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/m.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/maoren.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/nike.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/o.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/p.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/product.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/product.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/q.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/r___________renleipic_01/15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/r___________renleipic_01/bigPic139f030b-d68b-41dd-be6d-b94cc568d3c5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/r___________renleipic_01/bigPic19533252-0faa-4e64-8077-6e1908f47739.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/r___________renleipic_01/bigPic1ea8f1c9-8b8e-4262-8ca9-690912434692.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/r___________renleipic_01/bigPic5f3622b8-028a-4e62-a77f-f41a16d715ed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/r___________renleipic_01/footer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/r___________renleipic_01/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/r___________renleipic_01/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/r___________renleipic_01/logo1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/r___________renleipic_01/product.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/registImg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/regist_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/register.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/semir.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/sentubila.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/septwolves.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/sundance.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/vimly.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/image/yishion.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/IconTexto_WebDev_009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/article.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/cart.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/cart1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/common.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/dialog_overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/error.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/finalbutton.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/gif53_029.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/i_del.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/i_edit.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/index.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/info.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/loading_bar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/loading_icon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/login.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/loginbg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/member.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/message.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/mis_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/mis_05a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/mis_05b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/mis_05c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/order.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/password.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/product.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/regist_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/register.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/review.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/shim.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/title2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/top_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/top_100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/tree/base.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/tree/cd.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/tree/empty.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/tree/folder.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/tree/folderopen.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/tree/globe.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/tree/imgfolder.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/tree/join.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/tree/joinbottom.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/tree/line.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/tree/minus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/tree/minusbottom.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/tree/musicfolder.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/tree/nolines_minus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/tree/nolines_plus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/tree/page.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/tree/plus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/tree/plusbottom.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/tree/question.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/images/tree/trash.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/img/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/img/bartlesvillecf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/img/emancipation.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/img/footer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/img/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/img/header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/img/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/img/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/img/okwu-athletics.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/img/okwu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/img/title2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/info.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/js/dtree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/js/jquery-1.11.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/js/jquery-3.4.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/js/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/js/messages_zh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/loginOut.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/order_info.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/order_list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/product_info.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/product_list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/556d64fcNf28f90d0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0013.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0016.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0018.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0019.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0021.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0022.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0023.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0024.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0025.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0026.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0027.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0028.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0029.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0030.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0031.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0032.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0033.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0034.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0035.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0036.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0037.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0038.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0039.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0040.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0041.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0042.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0043.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0044.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0045.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0046.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0047.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0048.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0049.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/c_0050.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs10001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs10002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs10003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs10004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs10005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs10006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs10007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs10008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs10009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs10010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs20001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs20002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs20003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs20004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs20005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs20006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs20007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs20008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs20009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs20010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs30001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs30002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs30003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs30004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs30005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs30006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs30007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs30008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs30009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs30010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs40001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs40002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs40003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs40004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs40005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs40006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs40007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs40008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs40009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs40010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs40011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs50001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs50002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs50003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs50004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs50005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs50006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs50007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs50008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs50009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs50010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs60001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs60002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs60003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs60004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs60005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs60006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs60007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs60008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs60009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs60010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs70001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs70002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs70003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs70004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs70005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs70006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs70007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs70008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs70009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/cs70010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/duanxue1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/duanxue2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/duanxue3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/duanxue4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/1/nvxie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/155210007679548_y.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/3/bed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/3/bed1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/3/desk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/3/desk1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/3/guizi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/3/sofa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/4/box1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/4/box2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/4/pakage1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/4/pakage2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/4/shoes1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/4/shoes2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/5/kuzi1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/5/kuzi2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/5/kuzi3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/5/kuzi4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/5/mianao1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/5/mianao2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/562d008aN963ce5f2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/5632bdf8N789e6659.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/5632c2eeNbc918af0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/6/java1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/6/java2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/6/spring1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/6/spring2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/6/springboot1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/6/springboot2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/90560009093007_y.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/c_0001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/c_0002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/c_0003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/c_0004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/c_0005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/c_0006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/c_0007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/dn1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/dn2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/f001a62f-a49d-4a4d-b56f-2b6908a0002c_g.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/hao/ad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/hao/big01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/hao/middle01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/hao/small01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/hao/small02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/hao/small03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/hao/small04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/hao/small05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/hao/small06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/hao/small07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/hao/small08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/hao/small09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/news_left.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/news_right.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistics-master/.idea/logistics-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistics-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistics-master/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistics-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc/springmvc01_02_zh/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc/springmvc01_02_zh/src/com/igeek/domain/QueryVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc/springmvc01_02_zh/src/com/igeek/test/ItemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc/springmvc01_02_zh/src/com/igeek/util/Converter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc/springmvc01_02_zh/web/WEB-INF/jsp/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc/springmvc01_02_zh/web/pic/eason.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../合班/Spring03-001/Spring02_03Aop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../合班/Spring03-001/lib/aopalliance-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../合班/Spring03-001/lib/aspectj.weaver-1.6.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../合班/Spring03-001/lib/c3p0-0.9.2-pre5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../合班/Spring03-001/lib/commons-dbcp-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../合班/Spring03-001/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../合班/Spring03-001/lib/commons-pool-1.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../合班/Spring03-001/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../合班/Spring03-001/lib/mchange-commons-java-0.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../合班/Spring03-001/lib/mysql-connector-java-5.1.37-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../合班/Spring03-001/lib/spring-aop-4.3.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../合班/Spring03-001/lib/spring-aspects-4.3.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../合班/Spring03-001/lib/spring-beans-4.3.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../合班/Spring03-001/lib/spring-context-4.3.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../合班/Spring03-001/lib/spring-core-4.3.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../合班/Spring03-001/lib/spring-expression-4.3.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../合班/Spring03-001/lib/spring-jdbc-4.3.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../合班/Spring03-001/lib/spring-test-4.3.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../合班/Spring03-001/lib/spring-tx-4.3.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../合班/Spring03-001/src/com/igeek/dao/AccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../合班/Spring03-001/src/com/igeek/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../合班/Spring03-001/src/com/igeek/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../合班/Spring03-001/src/com/igeek/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../合班/Spring03-001/src/com/igeek/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../合班/Spring03-001/src/com/igeek/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../合班/Spring03-001/src/com/igeek/test/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../合班/Spring03-001/src/com/igeek/test/JDBCTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../合班/Spring03-001/src/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../合班/Spring03-01/.idea/Spring03-01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../合班/Spring03-01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../合班/mybatis/mybatis01_03/src/com/igeek/domain/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../合班/mybatis/mybatis01_03/src/com/igeek/domain/QueryVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../大三上学期作业/安卓/FragmentTabHostTest/FragmentTabHostTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../大三上学期作业/安卓/Tab选项卡/Wangyi/library/library.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../第二阶段/每日作业卷.docx" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/igeekshop_dao/target/" />
+    <ignored path="$PROJECT_DIR$/igeekshop_service/target/" />
+    <ignored path="$PROJECT_DIR$/igeekshop_manager/target/" />
+    <ignored path="$PROJECT_DIR$/igeekshop_user/target/" />
+    <ignored path="$PROJECT_DIR$/igeekshop_web_user/target/" />
+    <ignored path="$PROJECT_DIR$/igeekshop_web_manager/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/login.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/register.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="19" selection-start-line="20" selection-start-column="17" selection-end-line="22" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1598">
+              <caret line="94" column="40" selection-start-line="94" selection-start-column="40" selection-end-line="94" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/src/main/java/com/igeekshop/ssm/controller/AdminProductController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="986">
+              <caret line="75" column="17" selection-start-line="75" selection-start-column="17" selection-end-line="75" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/igeekshop_web_user/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/igeekshop_service/src/main/java/com/igeekshop/ssm/service/CategoryService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/igeekshop_service/src/main/java/com/igeekshop/ssm/service/impl/CategoryServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/src/main/java/com/igeekshop/ssm/controller/AdminCategoryController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="53" column="24" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/igeekshop_web_user/src/main/resources/spring-mvc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="14" selection-start-line="13" selection-end-line="22" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/src/main/java/com/igeekshop/ssm/controller/AdminOrderController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="44" column="30" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/igeekshop_dao/src/main/java/com/igeekshop/ssm/domain/Users.java" />
+        <option value="$PROJECT_DIR$/igeekshop_dao/src/main/java/com/igeekshop/ssm/dao/UsersMapper.java" />
+        <option value="$PROJECT_DIR$/igeekshop_web_user/src/main/java/com/igeekshop/ssm/controller/UserLoginAndRegist.java" />
+        <option value="$PROJECT_DIR$/igeekshop_web_user/src/main/resources/redis.properties" />
+        <option value="$PROJECT_DIR$/igeekshop_web_user/src/main/java/com/igeekshop/ssm/controller/ProductShow.java" />
+        <option value="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/igeekshop_web_user/src/main/resources/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/igeekshop_dao/src/main/java/com/igeekshop/ssm/domain/PageBean.java" />
+        <option value="$PROJECT_DIR$/igeekshop_dao/src/main/java/com/igeekshop/ssm/mapper/ProductMapper.xml" />
+        <option value="$PROJECT_DIR$/igeekshop_dao/src/main/java/com/igeekshop/ssm/dao/ProductMapper.java" />
+        <option value="$PROJECT_DIR$/igeekshop_service/src/main/java/com/igeekshop/ssm/service/ProductService.java" />
+        <option value="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/product_list.jsp" />
+        <option value="$PROJECT_DIR$/igeekshop_web_user/src/main/java/com/igeekshop/ssm/controller/UserLoginAndRegistContorller.java" />
+        <option value="$PROJECT_DIR$/igeekshop_dao/src/main/java/com/igeekshop/ssm/domain/Cart.java" />
+        <option value="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/product_info.jsp" />
+        <option value="$PROJECT_DIR$/igeekshop_web_user/src/main/java/com/igeekshop/ssm/controller/ProductShowController.java" />
+        <option value="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/cart.jsp" />
+        <option value="$PROJECT_DIR$/igeekshop_dao/src/main/java/com/igeekshop/ssm/domain/Orderitem.java" />
+        <option value="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/order_info.jsp" />
+        <option value="$PROJECT_DIR$/igeekshop_dao/src/main/java/com/igeekshop/ssm/domain/Orders.java" />
+        <option value="$PROJECT_DIR$/igeekshop_service/src/main/java/com/igeekshop/ssm/service/impl/ProductServiceImpl.java" />
+        <option value="$PROJECT_DIR$/igeekshop_dao/src/main/java/com/igeekshop/ssm/dao/OrdersMapper.java" />
+        <option value="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/order_list.jsp" />
+        <option value="$PROJECT_DIR$/igeekshop_web_user/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/igeekshop_dao/src/test/java/com/igeekshop/ssm/tests/ProductTest.java" />
+        <option value="$PROJECT_DIR$/igeekshop_dao/src/main/java/com/igeekshop/ssm/mapper/OrdersMapper.xml" />
+        <option value="$PROJECT_DIR$/igeekshop_service/src/main/java/com/igeekshop/ssm/service/impl/OrdersServiceImpl.java" />
+        <option value="$PROJECT_DIR$/igeekshop_dao/src/main/java/com/igeekshop/ssm/domain/CartItem.java" />
+        <option value="$PROJECT_DIR$/igeekshop_web_user/src/main/java/com/igeekshop/ssm/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/igeekshop_service/src/main/java/com/igeekshop/ssm/service/OrdersService.java" />
+        <option value="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/admin/product/list.jsp" />
+        <option value="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/admin/left.jsp" />
+        <option value="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/css/Style1.css" />
+        <option value="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/admin/order/list.jsp" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/igeekshop_web_user/pom.xml" />
+        <option value="$PROJECT_DIR$/igeekshop_web_manager/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/igeekshop_web_manager/src/main/java/com/igeekshop/ssm/controller/AdminOrderController.java" />
+        <option value="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/admin/order/order_info.jsp" />
+        <option value="$PROJECT_DIR$/igeekshop_web_user/src/main/java/com/igeekshop/ssm/controller/CategoryListController.java" />
+        <option value="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/header.jsp" />
+        <option value="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/js/jquery.validate.min.js" />
+        <option value="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/register.jsp" />
+        <option value="$PROJECT_DIR$/igeekshop_web_manager/src/main/resources/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/admin/product/edit.jsp" />
+        <option value="$PROJECT_DIR$/igeekshop_web_manager/src/main/java/com/igeekshop/ssm/controller/AdminCategoryController.java" />
+        <option value="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/admin/product/add.jsp" />
+        <option value="$PROJECT_DIR$/igeekshop_web_manager/pom.xml" />
+        <option value="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/igeekshop_web_manager/src/main/java/com/igeekshop/ssm/controller/AdminProductController.java" />
+        <option value="$PROJECT_DIR$/igeekshop_service/src/main/java/com/igeekshop/ssm/service/impl/CategoryServiceImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="igeekshop_user Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="igeekshop_user Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="610" />
+    <option name="y" value="166" />
+    <option name="width" value="1722" />
+    <option name="height" value="978" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="igeekShop_ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="igeekShop_ssm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="igeekShop_ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="igeekShop_ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="igeekshop_service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="igeekShop_ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="igeekShop_ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="igeekshop_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="igeekShop_ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="igeekShop_ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="igeekshop_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="igeekShop_ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="igeekShop_ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="igeekshop_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="igeekShop_ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="igeekShop_ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="igeekshop_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="igeekShop_ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="igeekShop_ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="igeekshop_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\11216\Desktop\igeekShop_ssm\igeekshop_web_user\src\main\webapp\images" />
+      <recent name="C:\Users\11216\Desktop\igeekShop_ssm\igeekshop_web_user\src\main\webapp" />
+      <recent name="C:\Users\11216\Desktop\igeekShop_ssm\igeekshop_web_manager\src\main\webapp" />
+      <recent name="C:\Users\11216\Desktop\igeekShop_ssm\igeekshop_web_manager\src\main\webapp\WEB-INF" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\11216\Desktop\igeekShop_ssm\igeekshop_web_user\src\main\webapp" />
+      <recent name="C:\Users\11216\Desktop\igeekShop_ssm\igeekshop_web_user\src\main\webapp\js" />
+      <recent name="C:\Users\11216\Desktop\igeekShop_ssm\igeekshop_web_manager\src\main\webapp\admin\order" />
+      <recent name="C:\Users\11216\Desktop\igeekShop_ssm\igeekshop_web_manager\src\main\webapp" />
+      <recent name="C:\Users\11216\Desktop\igeekShop_ssm\igeekshop_dao\src\main\java\com\igeekshop\ssm\domain" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.ssm_user">
+    <configuration name="ProductTest.test01" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="igeekshop_dao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.igeekshop.ssm.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.igeekshop.ssm.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.igeekshop.ssm.tests.ProductTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ssm_manager" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.27" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="igeekshop_web_manager:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+        <file path="$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products">
+          <settings>
+            <option name="CONTEXT_PATH" value="/products" />
+          </settings>
+        </file>
+        <file path="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products">
+          <settings>
+            <option name="CONTEXT_PATH" value="/products1" />
+          </settings>
+        </file>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_igeekShop_ssm_3" />
+        <option name="HTTP_PORT" value="9090" />
+        <option name="JNDI_PORT" value="1010" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5021" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="igeekshop_web_manager:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="ssm_user" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.27" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="igeekshop_web_user:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+        <file path="$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products">
+          <settings>
+            <option name="CONTEXT_PATH" value="/products" />
+          </settings>
+        </file>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_igeekShop_ssm_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="2858" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="igeekshop_web_user:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ProductTest.test01" />
+      <item itemvalue="Tomcat Server.ssm_user" />
+      <item itemvalue="Tomcat Server.ssm_manager" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8a8b75e-67cc-4460-9663-a5be756e06ce" name="Default Changelist" comment="" />
+      <created>1576762500670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576762500670</updated>
+      <workItem from="1576762506599" duration="5600000" />
+      <workItem from="1576802150782" duration="3033000" />
+      <workItem from="1576807793286" duration="29383000" />
+      <workItem from="1576907743471" duration="42056000" />
+      <workItem from="1577061636300" duration="21723000" />
+      <workItem from="1577098706630" duration="20893000" />
+      <workItem from="1577120691024" duration="267000" />
+      <workItem from="1577147572757" duration="21309000" />
+      <workItem from="1577186448403" duration="13357000" />
+      <workItem from="1577240281694" duration="6952000" />
+      <workItem from="1577247509435" duration="10992000" />
+      <workItem from="1577264926391" duration="2322000" />
+      <workItem from="1577353223037" duration="3776000" />
+      <workItem from="1577364216683" duration="1601000" />
+      <workItem from="1577667158850" duration="598000" />
+      <workItem from="1577687616648" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ProductTest_test01 - 2019.12.23 at 22h 55m 30s.xml">
+      <configuration name="ProductTest.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductTest_test01 - 2019.12.23 at 23h 23m 27s.xml">
+      <configuration name="ProductTest.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductTest_test01 - 2019.12.23 at 23h 24m 18s.xml">
+      <configuration name="ProductTest.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductTest_test01 - 2019.12.23 at 23h 27m 41s.xml">
+      <configuration name="ProductTest.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductTest_test01 - 2019.12.23 at 23h 30m 52s.xml">
+      <configuration name="ProductTest.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductTest_test01 - 2019.12.23 at 23h 32m 27s.xml">
+      <configuration name="ProductTest.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductTest_test01 - 2019.12.23 at 23h 41m 56s.xml">
+      <configuration name="ProductTest.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductTest_test01 - 2019.12.24 at 00h 02m 17s.xml">
+      <configuration name="ProductTest.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductTest_test01 - 2019.12.24 at 00h 31m 58s.xml">
+      <configuration name="ProductTest.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductTest_test01 - 2019.12.24 at 00h 33m 34s.xml">
+      <configuration name="ProductTest.test01" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="183869000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="407" y="111" width="1148" height="652" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8826185" visible="true" weight="0.23761468" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Web" order="2" sideWeight="0.11738149" side_tool="true" weight="0.3177041" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Thumbnails" order="0" weight="0.3283859" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="TODO" order="3" sideWeight="0.49959645" weight="0.42137095" />
+      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.87146324" weight="0.10946196" />
+      <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.49959645" weight="0.39919356" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Spring" order="10" weight="0.06276151" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.12853678" side_tool="true" visible="true" weight="0.098790325" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.056497175" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.49380165" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" />
+      <window_info anchor="bottom" id="Application Servers" order="16" sideWeight="0.49959645" weight="0.51814514" />
+      <window_info anchor="bottom" id="Problems" order="17" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.027522936" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8826185" visible="true" weight="0.291453" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Web" order="2" sideWeight="0.11738149" side_tool="true" weight="0.3177041" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Thumbnails" order="0" weight="0.3283859" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.8804449" visible="true" weight="0.06198347" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.42317382" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Spring" order="10" weight="0.6195857" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.119555146" side_tool="true" weight="0.23037975" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.3283859" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.3283859" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" />
+      <window_info anchor="bottom" id="Application Servers" order="16" weight="0.6994434" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.0965812" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/igeekshop_service/src/main/java/com/igeekshop/ssm/service/impl/OrdersServiceImpl.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/target/igeekshop_manager/products/QQ图片20170619162720.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/target/igeekshop_manager/products/Q99](CU59PF8O%C_]L(Z`_G.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/target/igeekshop_manager/products/pp.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/target/igeekshop_manager/products/news_right.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/target/igeekshop_manager/products/news_left.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/target/igeekshop_manager/products/f001a62f-a49d-4a4d-b56f-2b6908a0002c_g.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/target/igeekshop_manager/products/b3fb43166d224f4a09534c430ff790529922d193.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/target/igeekshop_manager/products/90560009093007_y.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/target/igeekshop_manager/products/10dfa9ec8a1363277903fd63978fa0ec09fac7f7.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/target/igeekshop_manager/products/556d64fcNf28f90d0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/target/igeekshop_manager/products/562d008aN963ce5f2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/target/igeekshop_manager/products/5632bdf8N789e6659.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/target/igeekshop_manager/products/5632c2eeNbc918af0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_user/target/igeekshop_user/products/f001a62f-a49d-4a4d-b56f-2b6908a0002c_g.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_user/target/igeekshop_user/products/dn2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_user/target/igeekshop_user/products/c_0007.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_user/target/igeekshop_user/products/c_0006.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_user/target/igeekshop_user/products/c_0005.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/10dfa9ec8a1363277903fd63978fa0ec09fac7f7.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/556d64fcNf28f90d0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/b3fb43166d224f4a09534c430ff790529922d193.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/tu20771_10.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/tu20771_10.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_user/target/igeekshop_user/products/tu20771_10.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/products/DSC_0003.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/products/DSC_0003.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/src/main/resources/db.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/src/main/resources/spring-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/admin/bottom.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/admin/home.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/admin/left.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_user/src/main/java/com/igeekshop/ssm/controller/CategoryListController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_user/src/main/java/com/igeekshop/ssm/controller/ProductShowController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_user/src/main/java/com/igeekshop/ssm/controller/UserLoginAndRegistContorller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-459">
+          <caret line="44" column="23" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_user/src/main/java/com/igeekshop/ssm/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/src/main/webapp/admin/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/register.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="19" selection-start-line="20" selection-start-column="17" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_user/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="94" column="40" selection-start-line="94" selection-start-column="40" selection-end-line="94" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/src/main/java/com/igeekshop/ssm/controller/AdminProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="75" column="17" selection-start-line="75" selection-start-column="17" selection-end-line="75" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_user/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_service/src/main/java/com/igeekshop/ssm/service/CategoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/src/main/java/com/igeekshop/ssm/controller/AdminCategoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="53" column="24" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_user/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="14" selection-start-line="13" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_web_manager/src/main/java/com/igeekshop/ssm/controller/AdminOrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="44" column="30" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igeekshop_service/src/main/java/com/igeekshop/ssm/service/impl/CategoryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>igeekshop_user:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>igeekshop_web_user</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8 (2)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
